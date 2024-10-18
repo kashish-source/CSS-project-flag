@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.orange{
+    height: 150px;
+    background-color: orangered;
+    font-size: larger;
+}
+
+h4{
+    color: white;
+    background-color: rgb(18, 18, 114);
+    font-size: 2rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 3rem;
+}
+
+.white{
+    height: 250px;
+    background-color: white;
+}
+
+.ashok-chakra{
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 50%;
+    margin-left:550px;
+    position: relative;
+}
+
+.green{
+    height: 150px;
+    background-color: green;
+}
+
